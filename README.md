@@ -4,7 +4,7 @@
 
 ## Thông tin cá nhân 📝
 
-**👤 Họ và tên:** Nguyễn Văn A  
+**👤 Họ và tên:** Phạm Mạnh Tiền
 **📧 Email:** [abc160cba@gmail.com](mailto:abc160cba@gmail.com)  
 **📱 Số điện thoại:** (+84) 0947315814 
 **🏠 Địa chỉ:** 272/5 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Thành Phố Hồ Chí Minh
