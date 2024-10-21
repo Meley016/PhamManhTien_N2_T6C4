@@ -8,7 +8,7 @@
 
 **📧 Email:** [abc160cba@gmail.com](mailto:abc160cba@gmail.com)  
 
-**📱 Số điện thoại:** (+84) 0947315814 
+**📱 Số điện thoại:** (+84) 947315814 
 
 **🏠 Địa chỉ:** 272/5 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, Thành Phố Hồ Chí Minh
 
