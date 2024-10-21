@@ -28,14 +28,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="30" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Illustrator/Illustrator-original.svg" height="30" alt="Illustrator logo"  />
   <img width="12" />
 - 🌐 **Phát triển Web:** React, Node.js, Tailwind CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="30" alt="tailwind logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
 - 📱 **Di động:** None 
 
